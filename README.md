@@ -410,7 +410,7 @@ Open-source software licensed under the [MIT license](https://opensource.org/lic
 
 - Laravel Framework
 - Tailwind CSS
-- Technical Test by Rumah Hobi
+- Technical Test by Rumah Hobi/Xfit Digital Indonesia
 
 ---
 
